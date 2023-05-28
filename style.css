@@ -81,6 +81,72 @@
   color: white;
   font-size: large;
 }
+.a{
+  color: white;
+  font-size: large;
+}
+.a{
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.b{
+  color: white;
+  font-size: large;
+}
+.b{
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.c{
+  color: white;
+  font-size: large;
+}
+.c{
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px 0px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.d{
+  color: white;
+  font-size: large;
+}
+.d{
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.e{
+  color: white;
+  font-size: large;
+}
+.e{
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.X{
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.X{
+  color: white;
+  font-size: large;
+}
  
   
   
