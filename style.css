@@ -147,6 +147,10 @@
   color: white;
   font-size: large;
 }
-
+.fff{
+  
+  position: absolute;
+  top: 28%; 
+  transform: translate(170%);
   
   
