@@ -147,11 +147,15 @@
   color: white;
   font-size: large;
 }
-.fff{
+.benup{
   
   position: absolute;
-  top: 28%; 
+  top: 60%;
   transform: translate(170%);
+}
+.benup{
+  color: white;
+  font-size: large;
 }
   
   
